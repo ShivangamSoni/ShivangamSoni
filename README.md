@@ -4,7 +4,7 @@
 
 ### 🎯 New Site currently in Developement
 
-### ⚡ [My (old) Website](https://shivangam-soni.vercel.app)
+### ⚡ [My Website](https://shivangam-soni.vercel.app)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivangam-soni) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16659219) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ShivangamSoni) 
